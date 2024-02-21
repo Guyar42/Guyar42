@@ -18,7 +18,7 @@ Je m'interesse en ce moment aux technologies du Devops, la conteneurisation, l'o
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Cpp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/7b3bccfadc92429d2907d1c4d5f154a4153934163fa0fe4f458c4676a8dbf673/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
