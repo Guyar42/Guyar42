@@ -1,19 +1,17 @@
-**<p align="center">Bonjour et bienvenue sur mon Github personnel!</p>**
+# <p align="center">Bonjour et bienvenue sur mon Github personnel</p>
 
 
 
  
-<p align="center">Vous trouverez ici quelques projets de mon portfolio.
+ <p align="center">Vous trouverez ici quelques projets de mon portfolio.
 Le monde de l'informatique est vaste, et continuer à se former est une necessité.
-Je m'interessee en ce moment aux technologies du Devops, la conteneurisation, l'orchestration de container et le déploiment sur le cloud.
+Je m'interesse en ce moment aux technologies du Devops, la conteneurisation, l'orchestration de container et le déploiment sur le cloud.
 </p>
 
 
 
  
-<p align="center">
-Actuellement à la recherche d'un stage de developpeur.
-</p>
+<p align="center"> Actuellement à la recherche d'un stage de developpeur.</p>
 
 
 <p align="center">
